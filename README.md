@@ -12,6 +12,8 @@ A simple responsive profile card with social links and visible hover/focus state
 
 ## Live site
 
+- https://biruchenko.github.io/social-link-profile/
+
 ## Built with
 
 - Semantic HTML5
